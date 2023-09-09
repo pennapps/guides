@@ -1,6 +1,6 @@
 # JQuery
 
-JQuery is a helpful Javascript library that makes possible to bring webpages to life without going insane. It provides helpers for DOM manipulation, event binding, AJAX requests, and even animations. JQuery is compatible with nearly all browsers (including oldies like IE) and has a wide range of plugins available that extend its functionality even further.
+JQuery is a helpful Javascript library that makes it possible to bring webpages to life without going insane. It provides helpers for DOM manipulation, event binding, AJAX requests, and even animations. JQuery is compatible with nearly all browsers (including oldies like IE) and has a wide range of plugins available that extend its functionality even further.
 
 This guide will assume some knowledge of programming and HTML/CSS but extensive practice of Javascript will not be required to understand it. However, the better you know the language the more dangerous you’ll be when you sit down to program. For an excellent primer in the Javascript language (as well as a look at how miserable events are without JQuery!), [go here](https://eloquentjavascript.net/).
 
@@ -22,7 +22,7 @@ This tells JQuery to wait until the document is loaded, and then run whatever co
 
 ## DOM manipulation
 
-Check out the [HTML/CSS](http://mentoring.pennapps.com/guide/css.html) page to learn about the DOM.
+Check out the [HTML/CSS](https://mentoring.pennapps.com/web-design) page to learn about the DOM.
 
 JQuery makes it really easy to add, remove, and change DOM nodes. For instance, if we wanted to create a new `<h2>` element that said “PennApps rocks,” we would write
 
@@ -77,7 +77,7 @@ var myNode = $(‘#myID’).css(‘color’, ‘red’).attr(‘width’, ‘500
 
 ### Clicks, Keypresses, and more
 
-JQuery makes it easy to make something happen when a user clicks the a button or presses a key. Once you’ve selected the node you want to bind the event to (either via selectors as shown above, or by creating the node in the Javascript and storing it as a variable), you can use the `.click()`, `.keypress()`, and a host of other event binding methods to do some seriously cool stuff. Google and Stack Overflow will be your best bet for finding out how to do something specific (like binding only to the ‘up’ arrow for example).
+JQuery makes it easy to make something happen when a user clicks a button or presses a key. Once you’ve selected the node you want to bind the event to (either via selectors as shown above, or by creating the node in the Javascript and storing it as a variable), you can use the `.click()`, `.keypress()`, and a host of other event binding methods to do some seriously cool stuff. Google and Stack Overflow will be your best bet for finding out how to do something specific (like binding only to the ‘up’ arrow for example).
 
 JQuery also supports touch events, although unfortunately not with a nice helper method like ‘click().’ You have to bind to touch events manually like so:
 
@@ -100,7 +100,7 @@ This can be really useful for situations in which you need a few events, or you 
 
 ## Animations
 
-Rather from simply inserting elements into the DOM, JQuery provides a few functions to make their entrance and exit a little more polished. The simplest of these are `fadeIn()` and `fadeOut()`, which are pretty self explanatory; the element is phased from invisible to visible, or vice-versa. But you can also program custom animations based on CSS properties via the `animate()` function, or chain multiple `animate()` calls. Now, with only JQuery loaded you can only animate numerical properties; but if you want to animate colors or other properties, you should check out some…
+Rather than simply inserting elements into the DOM, JQuery provides a few functions to make their entrance and exit a little more polished. The simplest of these are `fadeIn()` and `fadeOut()`, which are pretty self-explanatory; the element is phased from invisible to visible, or vice-versa. But you can also program custom animations based on CSS properties via the `animate()` function, or chain multiple `animate()` calls. Now, with only JQuery loaded you can only animate numerical properties; but if you want to animate colors or other properties, you should check out some…
 
 ## Plugins
 
