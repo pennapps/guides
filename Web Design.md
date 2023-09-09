@@ -2,7 +2,7 @@
 
 ## Building your first (pretty) website
 
-Welcome coders of all levels! Feel free to check out the [Code Weekend](http://mentoring.pennapps.com/guide/dinphil.github.io/code-weekend) website for a quick overview of HTML, CSS, and Javascript. In case you missed it, here’s how the three come together to make websites work:
+Welcome coders of all levels! Let's do a quick overview of HTML, CSS, and Javascript, and see how the three come together to make websites work!
 
 ## What are HTML, CSS, and Javascript?
 
