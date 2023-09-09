@@ -5,7 +5,7 @@ Android is the most widely used mobile operating system in the world. Unlike its
 # Resources
 
 - [Build a simple app](https://developer.android.com/training/basics/firstapp/index.html)
-- [More about Android development for beginners](https://www.techrepublic.com/blog/app-builder/a-newbies-guide-to-android-development/1216)
+- [Android App Development Fundamentals for Beginners](https://www.geeksforgeeks.org/android-app-development-fundamentals-for-beginners/)
 - [Eclipse installation](https://www.eclipse.org/downloads/)
 - [Beginner's guide to Android](https://www.codeproject.com/Articles/102065/Android-A-beginner-s-guide)
 - [Beginner's guide to Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
