@@ -2,7 +2,7 @@
 
 ## A simple and powerful coding language
 
-Python is a widely used programming language. Similar to Java, it is primarily and object-oriented language (see the [Java / OOP page](http://mentoring.pennapps.com/guide/BeginnerJava.html) for more information on that). However, compared to Java, Python is designed to be extremely readable and usually requires fewer lines of code. To see this simplicity, here is a “Hello World!” program in Python:
+Python is a widely used programming language. Similar to Java, it is primarily an object-oriented language (see the [Java / OOP page](http://mentoring.pennapps.com/guide/BeginnerJava.html) for more information on that). However, compared to Java, Python is designed to be extremely readable and usually requires fewer lines of code. To see this simplicity, here is a “Hello World!” program in Python:
 
 `print “Hello World!”`
 
