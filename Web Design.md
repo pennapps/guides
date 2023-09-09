@@ -104,4 +104,4 @@ There are tons of resources out there to help with CSS and design:
 - [Learn HTML and CSS on Scrimba](https://scrimba.com/learn/htmlandcss).
 - [Learn Bootstrap on Scrimba](https://scrimba.com/learn/bootstrap4).
 
-This guide was provided by [Brynn Claypoole](https://github.com/bclay/) and PennApps(https://github.com/pennapps).
+This guide was provided by [Brynn Claypoole](https://github.com/bclay/) and [PennApps](https://github.com/pennapps).
