@@ -2,9 +2,9 @@
 
 ## Writing down your own code
 
-If you already have a favorite text editor (Note: Word, Google Docs, or any other word processing software are NOT text editors. They are documents software, and that is a BIG DIFFERENCE), feel free to use that. If you’re a beginner, we recommend using [Sublime Text](https://www.sublimetext.com/). To do so, please click on the “Download” bar at the top and download either Sublime Text 3 or the newest version of Sublime Text 2.
+If you already have a favorite text editor (Note: Word, Google Docs, or any other word processing software are NOT text editors. They are document software, and that is a BIG DIFFERENCE), feel free to use that. If you’re a beginner, we recommend using [Sublime Text](https://www.sublimetext.com/). To do so, please click on the “Download” bar at the top and download either Sublime Text 3 or the newest version of Sublime Text 2.
 
-Once you have it downloaded, you can use it to create plain-text files for whatever kind of language you are using. Name your file with the correct extension (.html for HTML, .js for JavaScript, .hs for Haskell, etc) and Sublime will automatically recognize it and highlight it appropriately. Click [here](https://www.tutorialspoint.com/sublime_text/index.htm) for a comprehensive tutorial of Sublime Text for beginners, or [here](https://www.loginradius.com/blog/async/beginners-guide-for-sublime-text/) for a more succinct guide.
+Once you have it downloaded, you can use it to create plain-text files for whatever kind of language you are using. Name your file with the correct extension (.html for HTML, .js for JavaScript, .hs for Haskell, etc.) and Sublime will automatically recognize it and highlight it appropriately. Click [here](https://www.tutorialspoint.com/sublime_text/index.htm) for a comprehensive tutorial of Sublime Text for beginners, or [here](https://www.loginradius.com/blog/async/beginners-guide-for-sublime-text/) for a more succinct guide.
 
 You should also install the Sublime Package Manager, which lets you extend the functionality of Sublime Text with pre-written packages. To install the package manager, follow the instructions on this [site](https://packagecontrol.io/installation) according to your version of Sublime (Sublime Text 2 or Sublime Text 3).
 
