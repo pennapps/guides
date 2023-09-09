@@ -2,9 +2,9 @@
 
 ## What is Java?
 
-Java is a multi-faceted object-oriented programming language designed to allow developers to “write once, run anywhere”. When Java code is compiled, it is not converted to machine code like in many other languages; instead, it is converted to Java “bytecode.” This bytecode is then executed on the Java Virtual Machine, a program which is available for a wide variety of platforms. 
+Java is a multi-faceted object-oriented programming language designed to allow developers to “write once, run anywhere”. When Java code is compiled, it is not converted to machine code like in many other languages; instead, it is converted to Java “bytecode.” This bytecode is then executed on the Java Virtual Machine, a program that is available for a wide variety of platforms. 
 
-As result, Java can be run in the same way on any machine with the JVM installed. While sometimes maligned for being syntactically verbose (lots of rules you have to follow when you code in Java), Java is nonetheless a popular language with millions of developers and hundreds of millions of users. Developed in the early 90’s by Sun Microsystems (now a part of Oracle), Java is one of the most widely used languages for apps of any size!
+As a result, Java can be run in the same way on any machine with the JVM installed. While sometimes maligned for being syntactically verbose (lots of rules you have to follow when you code in Java), Java is nonetheless a popular language with millions of developers and hundreds of millions of users. Developed in the early 90s by Sun Microsystems (now a part of Oracle), Java is one of the most widely used languages for apps of any size!
 
 ## What is Object-Oriented Programming?
 
@@ -12,7 +12,7 @@ In essence, object-oriented programming (OOP) is a programming paradigm where da
 
 ## Hello the hard way
 
-Here is an example of a rather complex “Hello World!” program in Java. In this example, we will take advantage of the extensive Java Swing library, an extensive GUI library which can be used in a wide variety of apps. (All credit to Wikipedia for the program)
+Here is an example of a rather complex “Hello World!” program in Java. In this example, we will take advantage of the extensive Java Swing library, an extensive GUI library that can be used in a wide variety of apps. (All credit to Wikipedia for the program)
 
 ```java
 import javax.swing.JFrame;  //Importing class JFrame
